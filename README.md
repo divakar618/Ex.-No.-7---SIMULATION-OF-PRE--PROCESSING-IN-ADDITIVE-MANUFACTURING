@@ -45,8 +45,18 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+
+![Screenshot 2023-05-27 160143](https://github.com/divakar618/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121932143/67c24bde-22c1-4e84-a9aa-e13a9edd5d50)
+
+
+
+
+
+
+### Name: DIVAKAR R
+### Register Number: 212222240026
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
